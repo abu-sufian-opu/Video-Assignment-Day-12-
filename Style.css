@@ -1,0 +1,34 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 1px 1px black;
+}
+h2{
+    color: hsl(246, 100%, 50%);
+    text-align: right;
+    text-transform: capitalize;
+    text-decoration: line-through;
+}
+/* this is h3 css style*/
+h3{
+    color: #b43008;
+    text-align: left;
+    text-transform: lowercase;
+    letter-spacing: 5px;
+}
+p{
+    text-align: left;
+    text-transform: lowercase;
+    letter-spacing: normal;
+    font-size: 14px;
+    line-height: 28px;
+}
+h5{
+    text-align: right;
+    text-transform: uppercase;
+    text-decoration: overline;
+    word-spacing: 2px;
+}
